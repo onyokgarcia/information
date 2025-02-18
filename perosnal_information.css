@@ -1,0 +1,40 @@
+body {
+
+    background-color: lightcoral;
+}
+
+div {
+    margin-top: 80px;
+    border: solid black;   
+    border-radius: 20px;
+    margin-left: 500PX;
+    margin-right: 500px;
+    background-color: white ;
+}
+
+.div h1 {
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.div h2 {
+    font-size: 25px;
+    margin-left: 25px;
+    
+}
+
+.div h3 {   
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.div p {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.div li {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
